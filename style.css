@@ -14,7 +14,8 @@ button {
   padding: 8px 12px;
   background-color: #0f293a;
   color: white;
-  border: none;
+  border: none; 
+  
   cursor: pointer;
   transition: background-color 0.2s ease-in-out;
 }
