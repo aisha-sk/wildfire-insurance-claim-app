@@ -1,0 +1,41 @@
+/* style.css */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
+  
+  header {
+    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+  }
+  
+  header h1 {
+    font-size: 2.5rem;
+  }
+  
+  .card-header {
+    font-size: 1.25rem;
+  }
+  
+  .table thead {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .table-hover tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .placeholder {
+    font-style: italic;
+  }
+  
+  footer {
+    background: #333;
+    color: #ccc;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
